@@ -1,5 +1,6 @@
 wafuBeacon
 ==========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/reinforce-lab/wafuBeacon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 iBeaconの実験やサンプルコードおよびユーティリティ・アプリケーションです。
 
 simpleBeacon
